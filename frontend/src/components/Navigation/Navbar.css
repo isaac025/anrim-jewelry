@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #F3A0A6;
+  align-items: center;
+  position: sticky;
+  display: flex;
+  z-index: 999;
+  height: 149px;
+  top: 0;
+  /* justify-content: center; */
+}
+.navbar-title {
+  justify-self: start;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 15px;
+  display: flex;
+  text-decoration: none;
+}
+
+.logo-row {
+  margin: 0 auto;
+}
+.navbar-logo {
+  text-align: center;
+  width: 83px;
+  height: 86px;
+  border-radius: 75px;
+}
+
